@@ -4,5 +4,9 @@ hello
 world
 fdf
 qqq
+<<<<<<< HEAD
 d
 hahahaha
+=======
+cool
+>>>>>>> issue
